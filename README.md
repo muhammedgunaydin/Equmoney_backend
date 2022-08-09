@@ -1,4 +1,4 @@
-#EqumoneyBackend
+# EqumoneyBackend
 
 API example is written in Javascript using [NodeJS](https://nodejs.org/en/) 
 framework and [MongoDB](https://www.mongodb.com/) database.
