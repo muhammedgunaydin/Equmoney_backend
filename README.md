@@ -31,16 +31,35 @@ framework and [MongoDB](https://www.mongodb.com/) database.
 ## Usage Examples
 
 There are two options:
-1) You can run the project with [Frontend](https://github.com/muhammedgunaydin/Equmoney_frontend.git)
-2) You can run the project with [Postman](https://www.postman.com/)
+1) You can use the project with [Frontend](https://github.com/muhammedgunaydin/Equmoney_frontend.git)
+2) You can use the project with [Postman](https://www.postman.com/)
 
-### 1. Run Project With [Frontend](https://github.com/muhammedgunaydin/Equmoney_frontend.git)
+### 1. Use Project With [Frontend](https://github.com/muhammedgunaydin/Equmoney_frontend.git)
 
 Follow the instructions.Click [here](https://github.com/muhammedgunaydin/Equmoney_frontend.git) for instructions.
 
-### 2. Run Project With [Postman](https://www.postman.com/)
+### 2. Use Project With [Postman](https://www.postman.com/)
 
-If your project is not run follow the instructions and start the project.
+Note:If your project is not run follow the instructions and start the project.
+
+- Create account -POST
+```bash
+http://localhost:8000/signup
+```
+
+![image](https://user-images.githubusercontent.com/79927591/183785074-b520d0fc-282b-4cbf-ab53-d73ffc4af900.png)
+
+- Login -POST
+```bash
+http://localhost:8000/login
+```
+
+![image](https://user-images.githubusercontent.com/79927591/183785241-3677c9ef-5c5c-4aea-b1f0-9ccce716ccb9.png)
+
+
+
+
+
 
 
 
