@@ -2,6 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/69458980/128169264-5dd902c7-cc9a-4a17-a36d-6492800ca301.jpg">
 
+The Project: Equmoney is a budget management application. It helps the user to edit the budget as quickly as possible.
+It is designed to help achieve a goal or save money.
+
+For the project frontend click [here](https://github.com/muhammedgunaydin/Equmoney_frontend.git)
+
 API example is written in Javascript using [NodeJS](https://nodejs.org/en/) 
 framework and [MongoDB](https://www.mongodb.com/) database.
 
