@@ -64,7 +64,7 @@ http://localhost:8000/payments
 
 ![image](https://user-images.githubusercontent.com/79927591/183785832-cb41cf5a-550c-4e36-9d0c-7326adc9ccf5.png)
 
-For the other uses, you can review the payments.js file.
+#### For the other uses, you can review the payments.js file.
 
 
 
