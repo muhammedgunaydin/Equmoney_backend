@@ -49,12 +49,18 @@ Note: If your project is not run follow the instructions and start the project.
 
 - Create account
 ```bash
-curl -X POST "http://localhost:8000/signup"
+curl -X POST http://localhost:8000/signup -d
+'{"email" : "user@hotmail.com",
+  "password" : "pass1234"
+}'
 ```
 
 - Login
 ```bash
-curl -X POST "http://localhost:8000/login"
+curl -X POST http://localhost:8000/login -d
+'{"email" : "user@hotmail.com",
+  "password" : "pass1234"
+}'
 ```
 
 - Get Payments Without ID
